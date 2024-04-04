@@ -20,7 +20,7 @@ Before you can run InkoChat, ensure you have the following installed:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/yourgithubusername/inkochat-Palm2-Streamlit-App.git
+   git clone https://github.com/hamza-elesi/inkochat-Palm2-Streamlit-App.git
    ```
 2. Navigate into the project directory.
    ```
@@ -59,7 +59,3 @@ Contributions to InkoChat are welcome! Please refer to CONTRIBUTING.md for guide
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Remember to replace placeholders (like `yourgithubusername`) with actual data specific to your project. Also, if you plan to welcome contributions or have specific license details, ensure you create and reference a `CONTRIBUTING.md` and a `LICENSE` file in your repository accordingly.
