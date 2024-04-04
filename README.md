@@ -1,7 +1,3 @@
-Creating a README file for your GitHub repository is essential for explaining what your project is about, how to set it up, and how to use it. Here's a draft of a README for your `inkochat-Palm2-Streamlit-App`:
-
----
-
 # InkoChat Palm2 Streamlit App
 
 InkoChat is a Streamlit-based web application that leverages the advanced capabilities of the PaLM 2 language model to provide users with a responsive and intelligent chat interface. This application demonstrates how to integrate a powerful language model API to generate meaningful and contextual responses to user inputs.
